@@ -5,14 +5,14 @@ This repository contains all the required materials for Homework 1 of DATA 512- 
 
 
 
-# DATA 512: HW1- Professionalism &amp; Reproducibility
+## DATA 512: HW1- Professionalism &amp; Reproducibility
 
 
 
 
 
 
-# Repository Distribution
+## Repository Distribution
 
 ```
 data-512-homework_1/
