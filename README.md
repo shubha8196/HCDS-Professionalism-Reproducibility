@@ -17,9 +17,9 @@ data-512-homework_1/
     |- configuration_files/
     |- software_configuration_format.py
   |- Analysis Graphs/
-      |- users.csv
-      |- feedback_app/
-      |- training_testing_data/
+      |- Plot1- article_maxmin_avg_views.jpg
+      |- Plot2- article_peak_page_views.jpg
+      |- Plot3- article_fewest_months.jpg
   |- Data
-      |- lyft_train_mlr.csv
+      |- dinosaur_genera.cleaned.SEPT.2022
      
