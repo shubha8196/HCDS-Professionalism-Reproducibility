@@ -13,13 +13,14 @@ data-512-homework_1/
   |- LICENSE
   |- DATA 512-HW1-Jupyter Notebook.ipynb
   |- JSON data files/
-    |- __init__.py
-    |- configuration_files/
-    |- software_configuration_format.py
+    |- dino_monthly_mobile_201507-202209.json
+    |- dino_monthly_desktop_201507-202209.json
+    |- dino_monthly_cumulative_201507-202209.json
   |- Analysis Graphs/
-      |- Plot1- article_maxmin_avg_views.jpg
-      |- Plot2- article_peak_page_views.jpg
-      |- Plot3- article_fewest_months.jpg
+    |- Plot1- article_maxmin_avg_views.jpg
+    |- Plot2- article_peak_page_views.jpg
+    |- Plot3- article_fewest_months.jpg
   |- Data
-      |- dinosaur_genera.cleaned.SEPT.2022
-     
+    |- dinosaur_genera.cleaned.SEPT.2022.xlsx
+      
+   
