@@ -1,12 +1,18 @@
-# data-512-homework_1
+## data-512-homework_1
 
-## DATA 512: HW1- Professionalism &amp; Reproducibility
-
-
+This repository contains all the required materials for Homework 1 of DATA 512- Human Centered Data Science course (Autumn 2022) offered by the MSDS program at the University of Washington.
 
 
 
-## Repository Distribution
+
+# DATA 512: HW1- Professionalism &amp; Reproducibility
+
+
+
+
+
+
+# Repository Distribution
 
 ```
 data-512-homework_1/
