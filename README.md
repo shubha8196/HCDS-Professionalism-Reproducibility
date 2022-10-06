@@ -1,13 +1,13 @@
 # data-512-homework_1
 
-This repository contains all the required materials for Homework 1 of DATA 512- Human Centered Data Science course (Autumn 2022) offered by the MSDS program at the University of Washington.
+This repository contains all the required materials for Homework 1 of DATA 512- Human Centered Data Science course (Autumn 2022) offered by the MSDS program at the University of Washington. The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from January 1, 2015 through September 30, 2022
 
 
 
 
 ## DATA 512: HW1- Professionalism &amp; Reproducibility
 
-
+Review the chapters  "Assessing Reproducibility" and "The Basic Reproducible Workflow Template" from The Practice of Reproducible Researc
 
 
 
@@ -32,5 +32,5 @@ data-512-homework_1/
 ```
    
 
-## Authors
+## Author
 - [Shubha Changappa Palachanda](https://github.com/shubha8196)
