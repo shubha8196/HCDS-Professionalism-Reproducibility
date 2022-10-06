@@ -29,7 +29,7 @@ data-512-homework_1/
     |- Plot3- article_fewest_months.jpg
   |- Data
     |- dinosaur_genera.cleaned.SEPT.2022.xlsx
-      
+```
    
 
 ## Authors
