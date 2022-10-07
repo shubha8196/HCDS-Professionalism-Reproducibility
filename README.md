@@ -32,21 +32,21 @@ data-512-homework_1/
     |- dinosaur_genera.cleaned.SEPT.2022.xlsx
 ```
 
-
- the data for the articles with highest and lowest average page views for both desktop and mobile
-
 ## Outputs Obtained
 
 JSON files:
 dino_monthly_desktop_201507-202209.json - This JSON file contains all the Dinosaurs articles page data for desktop access type.
+
 dino_monthly_mobile_201507-202209.json - This JSON file contains all the Dinosaurs articles page data for mobile access type.
+
 dino_monthly_cumulative_201507-202209.json - This JSON file contains the cumulative page views data for all the Dinosaurs articles for both desktop and mobile type of access. 
 
-Plot1- article_maxmin_avg_views.jpg : For Top 10 Peak Page Views - This is a time series plot displaying the data for the top 10 articles with highest page views for both desktop and mobile access types.
+Analysis Graphs:
+Plot1- article_maxmin_avg_views.jpg : For "Maximum Average and Minimum Average" - This is a time series plot displaying the data for the articles with highest and lowest average page views for both desktop and mobile access types.
 
-Plot2- article_peak_page_views.jpg : 
+Plot2- article_peak_page_views.jpg : For "Top 10 Peak Page Views" - This is a time series plot displaying the data for the top 10 articles with highest page views for both desktop and mobile access types.
 
-Plot3- article_fewest_months.jpg : 
+Plot3- article_fewest_months.jpg : For "Fewest Months of Data" - This is a time series plot displaying the data for the 10 articles with fewest months of available data for both desktop and mobile access types.
 
 ## Author
 - [Shubha Changappa Palachanda](https://github.com/shubha8196)
