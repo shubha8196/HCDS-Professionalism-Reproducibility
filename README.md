@@ -34,14 +34,14 @@ data-512-homework_1/
 
 ## Outputs Obtained
 
-JSON files:
+### JSON files:
 dino_monthly_desktop_201507-202209.json - This JSON file contains all the Dinosaurs articles page data for desktop access type.
 
 dino_monthly_mobile_201507-202209.json - This JSON file contains all the Dinosaurs articles page data for mobile access type.
 
 dino_monthly_cumulative_201507-202209.json - This JSON file contains the cumulative page views data for all the Dinosaurs articles for both desktop and mobile type of access. 
 
-Analysis Graphs:
+### Analysis Graphs:
 Plot1- article_maxmin_avg_views.jpg : For "Maximum Average and Minimum Average" - This is a time series plot displaying the data for the articles with highest and lowest average page views for both desktop and mobile access types.
 
 Plot2- article_peak_page_views.jpg : For "Top 10 Peak Page Views" - This is a time series plot displaying the data for the top 10 articles with highest page views for both desktop and mobile access types.
