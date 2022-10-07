@@ -40,11 +40,7 @@ data-512-homework_1/
 
 DATA 512-HW1-Jupyter Notebook : Contains the code used for the analysis
 
-## Issues/ Special considerations
-The given data source, has one modification i.e., the first row input has been modified from “Coelosaurus” antiquus to Coelosaurus antiquus
-
 ## Outputs Obtained
-
 
 ### Intermediary JSON files:
 dino_monthly_desktop_201507-202209.json - This JSON file contains all the Dinosaurs articles page data for desktop access type.
@@ -59,6 +55,11 @@ Plot1- article_maxmin_avg_views.jpg : For "Maximum Average and Minimum Average" 
 Plot2- article_peak_page_views.jpg : For "Top 10 Peak Page Views" - This is a time series plot displaying the data for the top 10 articles with highest page views for both desktop and mobile access types.
 
 Plot3- article_fewest_months.jpg : For "Fewest Months of Data" - This is a time series plot displaying the data for the 10 articles with fewest months of available data for both desktop and mobile access types.
+
+
+## Issues/ Special considerations
+1) For the given data source one data modification has been made where one of the row inputs has been modified from “Coelosaurus” antiquus to Coelosaurus antiquus
+2) In Plot3- article_fewest_months.jpg there are non-continuous time plots for a few articles due to lack of data availability for them during certain specific timestamps
 
 ## Author
 - [Shubha Changappa Palachanda](https://github.com/shubha8196)
