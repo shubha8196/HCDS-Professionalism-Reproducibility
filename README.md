@@ -1,13 +1,15 @@
 # data-512-homework_1
 
-This repository contains all the required materials for Homework 1 of DATA 512- Human Centered Data Science course (Autumn 2022) offered by the MSDS program at the University of Washington. The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from January 1, 2015 through September 30, 2022
+This repository contains all the required materials for Homework 1 of DATA 512- Human Centered Data Science course (Autumn 2022) offered by the MSDS program at the University of Washington. 
 
 
 
 
 ## DATA 512: HW1- Professionalism &amp; Reproducibility
 
-Review the chapters  "Assessing Reproducibility" and "The Basic Reproducible Workflow Template" from The Practice of Reproducible Researc
+The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from January 1, 2015 through September 30, 2022. In order to achieve data has been collected through [Pageviews API] (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews). 
+The Pageviews API ( [documentation] (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint] (https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through the previous complete month.
+
 
 
 
