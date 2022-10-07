@@ -14,8 +14,11 @@ The goal of this assignment is to construct, analyze, and publish a dataset of m
 
 In order to achieve the goal defined above, the data has been collected through 
 [Pageviews API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews). 
-The Pageviews API ( [documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through the previous complete month.
+The Pageviews API ( [documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through the previous complete month. This datasource endpoint is licensed under the [CC-BY-SA 3.0]( CC-BY-SA 3.0 and GFDL licenses) and [GFDL licenses](CC-BY-SA 3.0 and GFDL licenses)
+Please find attached - the link to [Wikimedia Foundation REST API](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
 And the file dinosaur_genera.cleaned.SEPT.2022.xlsx is the subset of the English Wikipedia that represents a large number of [dinosaur related articles](https://docs.google.com/spreadsheets/d/1zfBNKsuWOFVFTOGK8qnTr2DmHkYK4mAACBKk1sHLt_k/edit?usp=sharing)
+
+
 
 ## Repository Distribution
 
