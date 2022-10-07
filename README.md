@@ -8,7 +8,7 @@ This repository contains all the required materials for Homework 1 of DATA 512- 
 
 ## Goal
 
-The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from January 1, 2015 through September 30, 2022.
+The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from January 1, 2015 through September 30, 2022 while incorporating and maintaining the best pratices for reproducibility in the Data Science profession.
 
 ## Data Utilized
 
@@ -40,9 +40,13 @@ data-512-homework_1/
 
 DATA 512-HW1-Jupyter Notebook : Contains the code used for the analysis
 
+## Issues/ Special considerations
+The given data source, has one modification i.e., the first row input has been modified from “Coelosaurus” antiquus to Coelosaurus antiquus
+
 ## Outputs Obtained
 
-### JSON files:
+
+### Intermediary JSON files:
 dino_monthly_desktop_201507-202209.json - This JSON file contains all the Dinosaurs articles page data for desktop access type.
 
 dino_monthly_mobile_201507-202209.json - This JSON file contains all the Dinosaurs articles page data for mobile access type.
