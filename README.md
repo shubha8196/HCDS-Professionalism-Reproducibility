@@ -32,6 +32,10 @@ data-512-homework_1/
     |- dinosaur_genera.cleaned.SEPT.2022.xlsx
 ```
 
+## Jupyter Notebook
+
+DATA 512-HW1-Jupyter Notebook : Contains the code used for the analysis
+
 ## Outputs Obtained
 
 ### JSON files:
