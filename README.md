@@ -2,7 +2,7 @@
 ![contributors](https://img.shields.io/github/contributors/shubha8196/data-512-homework_1.svg) ![codesize](https://img.shields.io/github/languages/code-size/shubha8196/data-512-homework_1.svg)
 
 
-# data-512-homework_1: HW1- Professionalism & Reproducibility
+# Professionalism & Reproducibility
 
 This repository contains all the required materials for Homework 1 of DATA 512- Human Centered Data Science course (Autumn 2022) offered by the MSDS program at the University of Washington. 
 
